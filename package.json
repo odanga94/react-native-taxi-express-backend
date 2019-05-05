@@ -1,0 +1,20 @@
+{
+  "name": "react-native-taxi-express-backend",
+  "version": "1.0.0",
+  "description": "Express Backend for my React Native Taxi App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev index.js"
+  },
+  "author": "John Odanga",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "errorhandler": "1.5.0",
+    "express": "^4.16.4",
+    "mongoose": "5.5.5",
+    "morgan": "1.9.1",
+    "node-dev": "^4.0.0"
+  }
+}
